@@ -44,7 +44,9 @@ How to add a new function
 =========================
 Adding a new function
 
-external
+
+
+Read more here http://docs.moodle.org/dev/Adding_a_web_service_to_a_plugin#File_structure
 
 
 Insert in Database -> mdl_external_services_functions  (We need to do this if we have the plugin already installed)
